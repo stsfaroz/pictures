@@ -10,7 +10,7 @@ pip3 install pic
 
 Example :
 ```
-   >>from pictures import imagestogif
+   >>from pictures import imgtogif
    >>imgtogif.convert(path="./",file_name="mine.gif")
  ```
 #### Default parameters values:

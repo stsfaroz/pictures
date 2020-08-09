@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+pictures/__init__.py
+pictures/imgtogif.py
+pictures.egg-info/PKG-INFO
+pictures.egg-info/SOURCES.txt
+pictures.egg-info/dependency_links.txt
+pictures.egg-info/requires.txt
+pictures.egg-info/top_level.txt
