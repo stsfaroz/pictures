@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
   name = 'pictures',         
   packages = ['pictures'],   
-  version = '0.1',     
+  version = '0.2',     
   license='MIT',        
   description = 'Useful for Image processing', 
   long_description=long_description,
@@ -14,7 +14,7 @@ setuptools.setup(
   author = 'SALMAN_FAROZ',                   
   author_email = 'farozsts@gmail.com',      
   url = 'https://github.com/stsfaroz/pictures',  
-  download_url = 'https://github.com/stsfaroz/pictures/archive/0.1.tar.gz',    
+  download_url = 'https://github.com/stsfaroz/pictures/archive/0.2.tar.gz',    
   keywords = ['imagetogif', 'gif show',"images to gif", "img2gif"],   
   install_requires=["pillow","ipython"],
   classifiers=[

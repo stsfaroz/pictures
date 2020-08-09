@@ -2,7 +2,7 @@
 
 ### To install
 ```
-pip3 install pic
+pip3 install pictures
 ```
 ### Dependencies
 > pillow
