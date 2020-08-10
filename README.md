@@ -1,6 +1,6 @@
 # Pictures
 
-![Play with images](../pictures/img/pictures.png)
+![Play with images](../blob/master/pictures/img/pictures.png)
 
 
 ### To install
