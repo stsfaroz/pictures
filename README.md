@@ -13,7 +13,9 @@ pip3 install pictures
 ### Dependencies
 
 >  pillow
+
 > Ipython
+
 > pathlib
 
 Example :
