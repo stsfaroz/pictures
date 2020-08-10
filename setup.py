@@ -16,7 +16,7 @@ setuptools.setup(
   url = 'https://github.com/stsfaroz/pictures',  
   download_url = 'https://github.com/stsfaroz/pictures/archive/0.4.tar.gz',    
   keywords = ['imagetogif', 'gif show',"images to gif", "img2gif"],   
-  install_requires=["pillow","ipython"],
+  install_requires=["pillow","ipython", "pathlib"],
   classifiers=[
     'Development Status :: 4 - Beta',      
     'Intended Audience :: Developers',     
